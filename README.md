@@ -1,2 +1,2 @@
-# word-counter-bot
-this discord bot will count the number of times a specific word is used 
+# discord-bot
+A discord bot i made with python to help me with my studies and some random features i added for fun
