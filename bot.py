@@ -218,9 +218,5 @@ async def func(ctx):
 
 
 
-
-
-
-
 client.run('YOUR-TOKEN-HERE')
 
