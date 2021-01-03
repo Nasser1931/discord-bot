@@ -109,11 +109,6 @@ async def help(ctx):
  await ctx.send(embed=embed)
 
 
- @client.command()
- async def help2(ctx):
- 	file = discord.File("C:/Users/Nasser/Desktop/python/dsicord/watch.jpg", filename = "watch.jpg")
- 	await ctx.send("hello",file=file)
-
 
 
 @client.event
@@ -227,5 +222,5 @@ async def func(ctx):
 
 
 
-client.run('NzcxMzcxNDgwMDUwNTY1MTMw.X5rJrA.xrPaYc1jd_UTyucg4YtsMIDVmtE')
+client.run('YOUR-TOKEN-HERE')
 
